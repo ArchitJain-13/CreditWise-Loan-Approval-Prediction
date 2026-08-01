@@ -193,5 +193,6 @@ This project is developed for educational and portfolio purposes.
 B.Tech Computer Science & Systems Engineering (KIIT University)
 Machine Learning | Backend Development | AI
 
-[LinkedIn](https://linkedin.com/in/architjain1302)
+LinkedIn: [LinkedIn](https://linkedin.com/in/architjain1302)
+
 GitHub: [ArchitJain-13](https://github.com/ArchitJain-13)
